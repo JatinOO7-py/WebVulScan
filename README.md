@@ -1,4 +1,4 @@
-# **MiniProject – Web Vulnerability Detection using LLMs**
+# **Web Vulnerability Detection using LLMs**
 
 ---
 
